@@ -298,7 +298,7 @@ function Index() {
       {/* FOOTER */}
       <footer className="border-t border-border/60">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-6 py-8 text-sm text-muted-foreground md:flex-row">
-          <p>© {new Date().getFullYear()} DevOps Guide for Students</p>
+          <p>© {new Date().getFullYear()} DevOps Guide for Students · MIT License</p>
           <p className="font-mono text-xs">Happy learning 🚀</p>
         </div>
       </footer>
